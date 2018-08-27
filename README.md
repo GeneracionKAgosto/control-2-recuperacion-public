@@ -41,7 +41,7 @@ de sus TODOs.
 Se trata de implementar el algoritmo de búsqueda binaria para un array de
 números.
 
-![Binary Search](http://www.mathwarehouse.com/programming/images/binary-vs-linear-search/binary-and-linear-search-animations.gif))
+![Binary Search](http://www.mathwarehouse.com/programming/images/binary-vs-linear-search/binary-and-linear-search-animations.gif)
 
 Opcionalmente, se puede hacer la implementación para buscar sobre un array de
 cualquier cosa, no sólo de números.
