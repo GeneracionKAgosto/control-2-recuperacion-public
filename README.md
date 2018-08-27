@@ -4,9 +4,9 @@
 
 Este ejercicio se trata de implementar una Cola (queue) y una Pila (stack).
 
-![Queue](https://upload.wikimedia.org/wikipedia/commons/5/52/Data_Queue.svg)
+![Queue](https://upload.wikimedia.org/wikipedia/commons/5/52/Data_Queue.svg | width=100))
 
-![Stack](https://upload.wikimedia.org/wikipedia/commons/b/b4/Lifo_stack.png)
+![Stack](https://upload.wikimedia.org/wikipedia/commons/b/b4/Lifo_stack.png | width=100))
 
 **Métodos de la Cola**
 
@@ -41,7 +41,7 @@ de sus TODOs.
 Se trata de implementar el algoritmo de búsqueda binaria para un array de
 números.
 
-![Binary Search](http://www.mathwarehouse.com/programming/images/binary-vs-linear-search/binary-and-linear-search-animations.gif)
+![Binary Search](http://www.mathwarehouse.com/programming/images/binary-vs-linear-search/binary-and-linear-search-animations.gif | width=100))
 
 Opcionalmente, se puede hacer la implementación para buscar sobre un array de
 cualquier cosa, no sólo de números.
