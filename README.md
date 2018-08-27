@@ -4,7 +4,7 @@
 
 Este ejercicio se trata de implementar una Cola (queue) y una Pila (stack).
 
-![Queue](https://upload.wikimedia.org/wikipedia/commons/5/52/Data_Queue.svg | width=100))
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Data_Queue.svg" alt="Queue" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="100" />
 
 ![Stack](https://upload.wikimedia.org/wikipedia/commons/b/b4/Lifo_stack.png | width=100))
 
